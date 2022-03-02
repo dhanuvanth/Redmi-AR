@@ -85,3 +85,10 @@ body {
     top: calc(100% - 10px);
   }
 }
+
+.copyright{
+  color: white;
+  position: absolute;
+  bottom: 10px;
+  right: 10px
+}
